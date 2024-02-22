@@ -1,0 +1,8 @@
+name: pre-commit
+channels:
+  - conda-forge
+dependencies:
+  - pre-commit
+  - ruff
+  - mypy
+prefix: C:\Users\123058850\Miniconda3\envs\pre-commit
